@@ -1,0 +1,28 @@
+{
+    "welcome": " ברוכים הבאים למבחן אדיג'ס אונליין",
+    "adizes_test": "מבחן אדיג'ס",
+    "question": "שאלה",
+    "ok": "אישור",
+    "clear_test": "נקה מבחן",
+    "question0": {
+        "title": "האם אתה 123",
+        "answer1": "111",
+        "answer2": "222",
+        "answer3": "333",
+        "answer4": "444"
+    } ,
+    "question1": {
+        "title": "האם אתה 123",
+        "answer1": "111",
+        "answer2": "222",
+        "answer3": "333",
+        "answer4": "444"
+    } ,
+    "question2": {
+        "title": "האם אתה 123",
+        "answer1": "a111",
+        "answer2": "a222",
+        "answer3": "a333",
+        "answer4": "a444"
+    } 
+}

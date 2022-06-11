@@ -1,0 +1,34 @@
+{
+    "welcome": "Welcome to online adizes test",
+    "adizes_test": "adizes test",
+    "ok": "OK",
+    "clear_test": "clear test",
+    "question0": {
+        "title": "are you A ",
+        "answer1": "a111",
+        "answer2": "a222",
+        "answer3": "a333",
+        "answer4": "a444"
+    } ,
+    "question1": {
+        "title": "are you B",
+        "answer1": "b111",
+        "answer2": "b222",
+        "answer3": "b333",
+        "answer4": "b444"
+    } ,
+    "question2": {
+        "title": "are you C",
+        "answer1": "c111",
+        "answer2": "c222",
+        "answer3": "c333",
+        "answer4": "c444"
+    },
+    "question3": {
+        "title":"are you D",
+        "answer1": "d111",
+        "answer2": "d222",
+        "answer3": "d333",
+        "answer4": "d444"
+    }
+}
